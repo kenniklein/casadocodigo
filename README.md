@@ -10,7 +10,7 @@ O projeto usa MySQL e deve existir já o banco `casadocodigo` (sem senha). O JPA
 
 ## Compilação
 
- Para compilar immporte o projeto no Eclipse (*Import as Maven Projeto*) ou compile na linha de comando usando Maven:
+ Para compilar importe o projeto no Eclipse (*Import as Maven Project*) ou compile na linha de comando usando Maven:
 
 	mvn clean package
 
@@ -26,7 +26,7 @@ Para não usar o profile "dev" basta comentar o InitParameter, no entanto é pre
 
 ## URL e Inicialização
 
-Ao rodar no Eclipse pelo  Tomcat acesse:
+Ao rodar no Eclipse pelo Tomcat acesse:
 
 	http://localhost:8080/casadocodigo
 	
